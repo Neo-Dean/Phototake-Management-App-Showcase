@@ -92,7 +92,7 @@ A role-based Android application, built with Flutter and Firebase, that gives st
 
 ### Analytics Page
 | Admin | Staff |
-|:---:|:---:|:---:|
+|:---:|:---:|
 | <img src="assets/analytics-admin.png" width="220"> <img src="assets/analytics-admin.png" width="220"> | <img src="assets/analytics-staff.png" width="220"> |
 
 ### Notification Page
