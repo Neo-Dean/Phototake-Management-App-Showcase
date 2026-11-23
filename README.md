@@ -128,19 +128,19 @@ A role-based Android application, built with Flutter and Firebase, that gives st
 
 **Staff Booking Process**
 
-![Staff Booking Activity Diagram](assets/activity-staff-booking.png)
+![Staff Booking Activity Diagram](assets/activity-staff-booking.jpg)
 
 **Admin Booking Process**
 
-![Admin Booking Activity Diagram](assets/activity-admin-booking.png)
+![Admin Booking Activity Diagram](assets/activity-admin-booking.jpg)
 
 **Admin Manage Staff Process**
 
-![Admin Manage Staff Activity Diagram](assets/activity-manage-staff.png)
+![Admin Manage Staff Activity Diagram](assets/activity-manage-staff.jpg)
 
 **Admin Manage Packages Process**
 
-![Admin Manage Packages Activity Diagram](assets/activity-manage-packages.png)
+![Admin Manage Packages Activity Diagram](assets/activity-manage-packages.jpg)
 
 ---
 
