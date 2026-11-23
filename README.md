@@ -83,7 +83,7 @@ A role-based Android application, built with Flutter and Firebase, that gives st
 ### Dashboard
 | Admin | Staff |
 |:---:|:---:|
-| <img src="assets/dashboard-admin.png" width="220"> | <img src="assets/dashboard-v.png" width="220"> |
+| <img src="assets/dashboard-admin.png" width="220"> | <img src="assets/dashboard-staff.png" width="220"> |
 
 ### Booking Form
 | Admin | Staff |
