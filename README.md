@@ -209,7 +209,6 @@ Phototake-Showcase/
 ├── README.md
 ├── LICENSE
 ├── assets/
-│   ├── banner.png
 │   ├── login.png
 │   ├── dashboard.png
 │   ├── booking-form.png
@@ -229,10 +228,9 @@ Phototake-Showcase/
 
 ---
 
-## Connect With Me
-
-- GitHub: [@Neo-Dean](https://github.com/Neo-Dean)
-- LinkedIn: [Syajaratul Diana Bt A.Razak](https://www.linkedin.com/in/your-profile)
+## Connect With Me  
+GitHub: [@Neo-Dean](https://github.com/Neo-Dean)  
+LinkedIn: [Syajaratul Diana Bt A.Razak](https://my.linkedin.com/in/syajaratul-diana-bt-a-razak-019145261)  
 
 ---
 
