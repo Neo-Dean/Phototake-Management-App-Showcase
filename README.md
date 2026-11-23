@@ -1,6 +1,4 @@
 # 📷 Phototake Management App — Showcase
-  
----
 
 ## About the Project
 
@@ -230,7 +228,8 @@ Phototake-Showcase/
 
 ## Connect With Me  
 GitHub: [@Neo-Dean](https://github.com/Neo-Dean)  
-LinkedIn: [Syajaratul Diana Bt A.Razak](https://my.linkedin.com/in/syajaratul-diana-bt-a-razak-019145261)  
+LinkedIn: [Syajaratul Diana Bt A.Razak](https://my.linkedin.com/in/syajaratul-diana-bt-a-razak-019145261)     
+Email: syajaratuldianarazak@gmail.com  
 
 ---
 
